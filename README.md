@@ -202,5 +202,3 @@
 - **TinyShell**: A web shell framework.
 - **PowerLurk**: A PowerShell toolset for building malicious WMI Event Subscriptions.
 - **DAMP (The Discretionary ACL Modification Project)**: A project focused on achieving persistence through host-based Security Descriptor Modification.
-
-### Credits: 4bug, syl

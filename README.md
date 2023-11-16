@@ -1,5 +1,3 @@
-**Red Team Field Manual PDF:** [Download PDF](https://r00t.live/pdf/rtfm-red-team-field-manual.pdf)
-
 ### Web Reconnaissance Tools
 
 - **EyeWitness:** Takes screenshots of websites, provides server header info, and identifies default credentials if possible.
